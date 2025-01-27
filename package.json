@@ -1,6 +1,6 @@
 {
     "name": "node-red-contrib-viseo-google-speech-custom",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "VISEO Bot Maker - Google Speech TTS/STT",
     "dependencies": {
         "node-red-contrib-viseo-google-authentication": "~0.1.0",
@@ -10,8 +10,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/NGRP/node-red-contrib-viseo/tree/master/node-red-contrib-google-speech"
+        "url": "https://github.com/AbdelrahmanZeidan5/node-red-contrib-viseo-google-speech-custom.git"
     },
+    "bugs": {
+        "url": "https://github.com/AbdelrahmanZeidan5/node-red-contrib-viseo-google-speech-custom/issues"
+    },
+    "homepage": "https://github.com/AbdelrahmanZeidan5/node-red-contrib-viseo-google-speech-custom#readme",
     "license": "Apache-2.0",
     "keywords": ["viseo", "sarah", "node-red", "google", "speech", "text", "tts", "stt"],
     "node-red": {
